@@ -1,11 +1,11 @@
 
 <img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://media.discordapp.net/attachments/934056910372634695/942631347112013844/20220214_092732.png">  
 <p align="center"><br>
-  <a href="https://github.com/RJ4444">
+  <a href="https://github.com/BoyNight1">
      </a>
 </p>
 <p align='center'>
-  <b>Hi 👋, I'm R J</b><br>
+  <b>Hi 👋, I'm BoyNight</b><br>
 </p>
 
 
@@ -32,7 +32,7 @@
 </p>
 </a>
 <p align="center">
-  <a href="https://discord.gg/VKWSPnSxC8">
+  <a href="https://discord.gg/6q2UtQCe">
   <img src="https://invidget.switchblade.xyz/825260113509351454" alt="eZaR"/>
   </a>
 </p>
